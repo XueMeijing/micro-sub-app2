@@ -1,5 +1,5 @@
 {
-  "name": "maycur-mobile-react",
+  "name": "micro-sub-app2",
   "version": "0.1.0",
   "homepage": "./",
   "private": true,
@@ -83,7 +83,7 @@
     "workbox-webpack-plugin": "5.1.4"
   },
   "scripts": {
-    "start": "export PORT=3006 && node scripts/start.js",
+    "start": "export PORT=8887 && node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },
